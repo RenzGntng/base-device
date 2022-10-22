@@ -44,7 +44,7 @@ $ pkg install nodejs [error]
 
 $ pkg upgrade nodejs
 
-$ git clone https://github.com/liaacans/base-device
+$ git clone https://github.com/Yantogntng/base-device
 
 $ cd base-device
 
@@ -65,7 +65,7 @@ $ apt install nodejs
 
 $ apt install ffmpeg
 
-$ git clone https://github.com/liaacans/base-device
+$ git clone https://github.com/Yantogntng/base-device
 
 $ cd base-device
 
