@@ -23,15 +23,15 @@ global.APIKeys = {
 
 //━━━━━━━━━━━━━━━[ SETTING ]━━━━━━━━━━━━━━━━━//
 global.thumb = fs.readFileSync('./image/thumbnail.jpg') // JGN DI UBAH!
-global.name = 'RENZ STORE (Owner)', // GNTI NAMA LU!
-global.creator = 'Renz BOT' // GANTI NAMA BOT LU BANH!
-global.owner = ['6283144670363'] // GNTI NOMOR LU!
-global.premium = ['6283144670363']
+global.name = 'Reii (Owner)', // GNTI NAMA LU!
+global.creator = 'ReiiBot' // GANTI NAMA BOT LU BANH!
+global.owner = ['6287778405247'] // GNTI NOMOR LU!
+global.premium = ['6287778405247'6283144670363']
 global.quotes = 'Kesempatan Anda Untuk Sukses Di Setiap Kondisi Selalu Dapat Diukur Oleh Seberapa Besar Kepercayaan Anda Pada Diri Sendiri' // Ganti Quotes, Tapi Trsrh Klian
-global.pulsa = ['083144670363'] // UBAH NOMOR YG AKTIF!
-global.botname = 'Renz BOT' // GNTI NAMA BOT LU!
-global.packname = 'NI STIKER RENZ-MD' // TRSERAH MO GANTI AP!
-global.author = 'Renz BOT' // GNTI NMA LU!
+global.pulsa = ['087778405247'] // UBAH NOMOR YG AKTIF!
+global.botname = 'ReiiBot' // GNTI NAMA BOT LU!
+global.packname = '© Reii' // TRSERAH MO GANTI AP!
+global.author = 'ReiiBot' // GNTI NMA LU!
 global.prefa = ['','!','.','/','#','$']
 global.sp = '⭔' // JGN DI UBAH²! NTR EROR
 global.mess = {
